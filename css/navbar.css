@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+    margin: 0;
+    background-color: #52b44b;
+    overflow: hidden;
+}
+li{
+    float : left;
+    font-family: futura,lato,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+li a{
+    display: block;
+    padding: 17px;
+    color: white;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: black;
+}

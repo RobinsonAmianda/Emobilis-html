@@ -1,0 +1,15 @@
+h2{
+    color: lawngreen;
+    text-align: center;
+    font-size: 27px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th,td{
+    border: 1px solid black;
+    padding: 7px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+}

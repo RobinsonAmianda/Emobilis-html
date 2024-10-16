@@ -1,0 +1,22 @@
+body{
+    font-family: futura,lato,Helvetica,Arial,sans-serif;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    background-color: #5ca358;
+    color: white;
+    padding: 13px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #52b44b;
+    color: black;
+
+}
